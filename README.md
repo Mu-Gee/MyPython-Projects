@@ -1,2 +1,2 @@
 # MyPython
-My journey learning the Pyhton language
+My journey learning the Python language
