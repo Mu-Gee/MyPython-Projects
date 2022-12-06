@@ -1,2 +1,3 @@
-# MyPython
-My journey learning the Python language
+# MyPython-Projects
+
+This are projects I've created while learning the Python language.
